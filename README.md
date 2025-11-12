@@ -10,7 +10,7 @@ A configurable, trace-driven cache simulator developed in C++ as a project for c
 
 ## Key Concepts Demonstrated
 
-* **C++:** File I/O (`fstream`), string parsing (`sstream`), STL containers (`vector`, `map`), and random number generation.
+* **C++:** File I/O, string parsing, STL containers, and random number generation.
 * **Computer Architecture:** Caches, memory hierarchy, spatial & temporal locality, hit/miss rates, and replacement policies.
 * **Bitwise Operations:** Used to extract the tag, index, and offset from memory addresses.
 
